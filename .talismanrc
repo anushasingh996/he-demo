@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: main.cpp
+  checksum: 4a6e22308a8a6b12fb6b13b33f8311bcdecbdaae2abcfd93493e5ffd8ba94ff3
+version: ""
